@@ -25,7 +25,4 @@ public abstract class Conteudo {
         this.descrição = descrição;
     }
 
-
-    
-
 }

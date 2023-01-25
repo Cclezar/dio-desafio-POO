@@ -42,6 +42,7 @@ public class Main {
 
         devCaroline.progredir();
         devCaroline.progredir();
+        devCaroline.progredir();
         System.out.println("-");
 
         System.out.println("conteúdos Inscrito" + devCaroline.getConteudosInscrito());
@@ -65,7 +66,6 @@ public class Main {
         System.out.println("conteúdos Inscrito" + devGabriele.getConteudosInscrito());
         System.out.println("conteúdos Concluídos" + devGabriele.getConteudosConcluidos());
         System.out.println("XP:" + devGabriele.calcularTotalXp());
-
 
     }
 }
